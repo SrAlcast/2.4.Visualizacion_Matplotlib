@@ -40,6 +40,7 @@ Este laboratorio explora cómo generar diversas visualizaciones para analizar da
 - **Distribución por Calificación**: ¿Cómo se distribuyen los títulos según su calificación?
 - **Películas vs. Series**: ¿Qué diferencias existen entre películas y series en términos de calificación y frecuencia de adición?
 
+
 ---
 
 ¡Este laboratorio te ayuda a dominar la visualización de datos para explorar patrones y obtener insights en grandes conjuntos de datos! 🚀
